@@ -37,21 +37,21 @@ document.addEventListener("DOMContentLoaded", function () {
         description: '...',
         image: 'seni.png',
         technologiesUsed: ['HTML5', 'CSS3','JavaScript','FileReader API','Responsive Design (Flexbox)'],
-        link: 'http://localhost:8080/Rossalinda(072799)/project1/Art.html'
+        link: 'https://rossa072799.github.io/PersonalPortfolioWebsite_Rossalinda.github.io/project1/Art.html'
     },
     {
         title: 'Project 2: Online Recipe Book',
         description: '...',
         image: 'rr.png',
         technologiesUsed: ['HTML5', 'CSS3','JavaScript','Responsive Design (Grid Layout)'],
-        link: 'http://localhost:8080/Rossalinda(072799)/project%202/OnlineRecipeBook.html'
+       link: 'https://rossa072799.github.io/PersonalPortfolioWebsite_Rossalinda.github.io/project2/OnlineRecipeBook.html'
     },
     {
         title: 'Project 3: Personal To-Do List',
         description: '...',
         image: 'lol.png',
         technologiesUsed: ['HTML5', 'CSS3','JavaScript','Responsive Design (Flexbox)'],
-        link: 'http://localhost:8080/Rossalinda(072799)/project%203/PTDLA.html'
+       link: 'https://rossa072799.github.io/PersonalPortfolioWebsite_Rossalinda.github.io/project3/PTDLA.html'
     }
 ];
 
